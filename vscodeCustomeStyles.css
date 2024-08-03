@@ -1,1 +1,7 @@
-"D:\VSCODE\vs-code.customeStyles.css.txt"
+.slider {
+    position: absolute;
+    right: 1px !important;
+    width: 1px !important;
+    background: #bc9abc !important;
+    left: auto !important;;
+}
