@@ -1,7 +1,8 @@
 .slider {
     right: 1px !important;
     width: 4px !important;
-    background: #b0cfcc !important;
+    border-radius: 2px;
+    background: #505e83 !important;
 }
 
 /* Search Label */
