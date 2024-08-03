@@ -1,6 +1,5 @@
 .slider {
-    position: absolute;
-    width: 1px !important;
-    background: #8398a7 !important;
-    left: auto !important;;
+    right: 1px !important;
+    width: 4px !important;
+    background: #b0cfcc !important;
 }
